@@ -1,0 +1,8 @@
+com\ids\controller\VerificationController.class
+com\ids\IdsApplication.class
+com\ids\entity\AuditLog.class
+com\ids\service\DiscordBotService.class
+com\ids\repository\UserRepository.class
+com\ids\repository\AuditLogRepository.class
+com\ids\entity\AuditLog$VerificationStatus.class
+com\ids\entity\User.class
