@@ -1,18 +1,15 @@
 # IDS-SHIELD 🛡️
 
-An intrusion-detection/security project for identifying suspicious activity in monitored systems or networks.
+A security-focused intrusion-detection project for identifying suspicious activity.
 
-## Overview
-IDS-SHIELD is a security-focused project that explores intrusion detection and alerting workflows.
-
-## Getting Started
-Install the dependencies listed in the repository and run the application's main entry point.
-
-## Focus Areas
+## Focus
 - Intrusion detection
 - Security monitoring
 - Suspicious-activity analysis
 - Alert-oriented workflows
 
+## Getting Started
+Install the dependencies listed in the repository and run its main application.
+
 ## Disclaimer
-This project is for educational and defensive security purposes. Test only on systems and networks you are authorized to monitor.
+For educational and defensive security purposes. Test only on systems and networks you are authorized to monitor.
